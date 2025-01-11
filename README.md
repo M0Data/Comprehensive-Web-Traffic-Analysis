@@ -6,7 +6,7 @@ This report provides a detailed analysis of web traffic patterns over a given pe
 The dashboard highlights key metrics such as **total traffic count**, **average traffic count**, **peak hours**, and **daily trends**. Interactive filters for months, days, and time allow for dynamic exploration of traffic patterns.
 
 ---
-![web traffic analysis]()
+![web traffic analysis](https://github.com/M0Data/Comprehensive-Web-Traffic-Analysis/blob/main/web%20traffic%20analysis.PNG?raw=true)
 
 ---
 
